@@ -1,0 +1,53 @@
+article{
+    background: #ffcc99;
+}
+
+header{
+    background: orange;
+}
+
+footer{
+    background: pink;
+}
+
+fieldset{
+    border-radius: 5px;
+    margin: 3px;
+}
+
+label, input{
+    margin: 3px;
+}
+
+label{
+    float: left;
+    text-align: right;
+    width: 5em;
+}
+
+input{
+    width: 87%;
+}
+
+select{
+    width: 87%;
+    margin-left: 3px;
+}
+
+#kuld{
+    text-align: center;
+    width: 30%;
+    margin: 0 auto;
+}
+
+#uzi{
+    float: left;
+    width: 100%;
+    margin-top: 2px;
+}
+
+section{
+    background: #ffffcc;
+    border: 1px solid grey;
+    margin: 5px;
+}
